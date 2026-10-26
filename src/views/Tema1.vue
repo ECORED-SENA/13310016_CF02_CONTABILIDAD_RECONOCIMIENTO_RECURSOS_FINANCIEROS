@@ -708,10 +708,7 @@
         .bloque-texto-g__img(
           :style="{ backgroundImage: `url(${require_src('@/assets/curso/temas/t1/img16.png')})` }")
         .bloque-texto-g__texto.p-4
-          p.mb-3 La interpretación del caso es: 
-            br
-            br
-            | <b>Ejemplo aplicado</b>
+          p.mb-3 <b>Ejemplo aplicado</b>
             br
             br
             | <b>Interpretación:</b> la existencia de un soporte no garantiza que el registro sea correcto. También se deben comprobar la naturaleza de la operación, el tercero, el valor, los impuestos, el periodo y las cuentas afectadas.

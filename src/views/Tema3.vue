@@ -540,8 +540,7 @@
               .col-12.col-sm-9.col-lg-5.order-1.order-lg-1.mb-4.mb-lg-0(data-aos="fade-right")
                 figure.mb-0.text-center
                   img.mx-auto(src='@/assets/curso/temas/t3/img15.png', alt='', style="width: 500px")
-              .col-12.col-lg-7.order-2.order-lg-2.bg-color-9.p-4(data-aos="fade-left")
-                p La interpretación es la siguiente:
+              .col-12.col-lg-7.order-2.order-lg-2.bg-color-9.p-4(data-aos="fade-left")                
                 p <b>Interpretación:</b> la venta a crédito aumenta la cuenta por cobrar al cliente en $ 1.190.000, valor correspondiente a la mercancía y al IVA. A su vez, se reconocen ingresos por $ 1.000.000 y un IVA generado de $ 190.000. La igualdad entre débitos y créditos confirma el cumplimiento de la partida doble.
                 p El comprobante permite relacionar la fecha, la factura, el cliente, las cuentas y los valores. Posteriormente, el asiento se incorpora cronológicamente en el libro diario, se agrupa por cuentas en el libro mayor y se detalla en el auxiliar del cliente.
                 p Cuando Almacén Rivera pague la factura, se registrará el ingreso del dinero y la disminución de la cuenta por cobrar. Esta secuencia garantiza la trazabilidad entre el soporte, el comprobante y los libros contables.

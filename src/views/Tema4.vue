@@ -449,8 +449,7 @@
         .col-lg-5.d-flex
           figure.mb-0.w-100
             img.h-100.w-100(src='@/assets/curso/temas/t4/img7.png', alt='', style="object-fit: cover;")
-        .col-lg-7.bg-color-3.d-flex.flex-column.justify-content-center.p-4          
-          p La interpretación del caso es la siguiente:
+        .col-lg-7.bg-color-3.d-flex.flex-column.justify-content-center.p-4
           p <b>Interpretación del caso:</b> la revisión permite establecer que no deben elaborarse los estados financieros hasta corregir la diferencia identificada. Si la información se presenta sin verificar los libros, auxiliares y soportes, las cuentas por cobrar y los resultados del periodo podrían contener valores incorrectos.
           p Después de localizar el registro pendiente, completar la información del tercero y comprobar que el auxiliar coincide con el libro mayor, la empresa puede generar nuevamente el balance de prueba y continuar con la elaboración de los estados financieros.
       p(data-aos="fade-left") La elaboración de reportes contables requiere información completa, clasificada, respaldada y verificada. La comparación entre soportes, comprobantes, libros, auxiliares y saldos permite corregir inconsistencias y generar información confiable para el análisis y la toma de decisiones.

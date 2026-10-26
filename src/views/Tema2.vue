@@ -609,8 +609,7 @@
                       td Digital
                       td Consultar resultados y situación financiera.
             .row.mb-5.justify-content-center.align-items-center
-              .col-12.col-lg-7.order-2.order-lg-1.bg-color-7.p-4(data-aos="fade-left")
-                p La interpretación del caso es la siguiente:
+              .col-12.col-lg-7.order-2.order-lg-1.bg-color-7.p-4(data-aos="fade-left")                
                 p <b>Interpretación del caso:</b> cada documento requiere criterios de archivo acordes con su naturaleza y finalidad. Su adecuada clasificación permite localizar los soportes, relacionarlos con los registros y atender oportunamente las consultas contables.
                 p.mb-0 La organización documental también facilita las verificaciones, conciliaciones y auditorías, además de fortalecer la conservación, trazabilidad y confiabilidad de la información financiera.
               .col-12.col-sm-9.col-lg-5.order-1.order-lg-2.mb-4.mb-lg-0(data-aos="fade-right")
